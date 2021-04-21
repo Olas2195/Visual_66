@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Visual_66\MyForm.h(103,39): warning C4129: "A": nierozpoznany znak sekwencji ucieczki
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Visual_66\MyForm.h(103,39): warning C4129: "D": nierozpoznany znak sekwencji ucieczki
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Visual_66\MyForm.h(103,39): warning C4129: "P": nierozpoznany znak sekwencji ucieczki
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Visual_66\MyForm.h(103,39): warning C4129: "C": nierozpoznany znak sekwencji ucieczki
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Visual_66\MyForm.h(103,39): warning C4129: "V": nierozpoznany znak sekwencji ucieczki
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Visual_66\MyForm.cpp(10,49): warning C4829: Możliwe niepoprawne parametry funkcji main. Rozważ użycie "int main(Platform::Array<Platform::String^>^ argv)"
+  66_2.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+  MyForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Visual_66.vcxproj -> C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Debug\Visual_66.exe

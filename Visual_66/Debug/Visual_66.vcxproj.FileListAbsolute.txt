@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Visual_66\Debug\Visual66.MyForm.resources
+C:\Users\Admin\Desktop\Programowanie\Programy+strony\C++\Visual_66\Visual_66\Debug\Visual_66.vcxproj.GenerateResource.cache
